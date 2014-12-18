@@ -1,0 +1,11 @@
+C:\Users\xiang\Documents\SharpDevelop Projects\test\test\bin\Release\test.exe
+C:\Users\xiang\Documents\SharpDevelop Projects\test\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Documents\SharpDevelop Projects\test\test\obj\Release\test.MainForm.resources
+C:\Users\xiang\Documents\SharpDevelop Projects\test\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Users\xiang\Documents\SharpDevelop Projects\test\test\obj\Release\test.exe
+C:\Workspace\C#\test\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Workspace\C#\test\test\obj\Release\test.MainForm.resources
+C:\Workspace\C#\test\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Workspace\C#\test\test\bin\Release\IPv6 Fixer.exe.config
+C:\Workspace\C#\test\test\bin\Release\IPv6 Fixer.exe
+C:\Workspace\C#\test\test\obj\Release\IPv6 Fixer.exe
