@@ -114,6 +114,21 @@ namespace test
 			interfacename = comboBox1.SelectedItem.ToString();
 
 		}
+
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            this.Visible = true;
+            this.WindowState = FormWindowState.Normal;
+        }
+
+        private void MainForm_SizeChanged(object sender, EventArgs e)
+        {
+            if (this.WindowState == FormWindowState.Minimized)
+            {
+                this.Hide();
+                this.notifyIcon1.Visible = true;
+            } 
+        }
 		
 		
 	}
